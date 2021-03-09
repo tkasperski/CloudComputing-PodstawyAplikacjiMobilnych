@@ -8,7 +8,7 @@ namespace Lab1_kasperski.Rest.Models
     public class Person
     {
         public int PersonId { get; set; }
-        public int FirstName { get; set; }
-        public int LastName { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
 }
