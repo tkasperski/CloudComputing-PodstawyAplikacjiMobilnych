@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cAJx+ZI0RGMV1miNybhfO6tlkUvrbCz38fNZ5zGim1wp/iwjL1MbBgMtV2W3H7YTT6jd+uqG9EN9WKMxvanYpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\X1\\Desktop\\FirstAndroidApp\\FirstAndroidApp\\FirstAndroidApp\\FirstAndroidApp\\FirstAndroidApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\X1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\X1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

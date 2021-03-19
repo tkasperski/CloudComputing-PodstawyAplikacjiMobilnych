@@ -1,0 +1,1 @@
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp.UWP\FirstAndroidApp.UWP.csproj;x86
