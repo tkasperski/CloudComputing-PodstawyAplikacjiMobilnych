@@ -1,0 +1,14 @@
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\bin\Debug\netstandard2.0\FirstAndroidApp.deps.json
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\bin\Debug\netstandard2.0\FirstAndroidApp.dll
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\bin\Debug\netstandard2.0\ref\FirstAndroidApp.dll
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\bin\Debug\netstandard2.0\FirstAndroidApp.pdb
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\FirstAndroidApp.csprojAssemblyReference.cache
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\FirstAndroidApp.AssemblyInfoInputs.cache
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\FirstAndroidApp.AssemblyInfo.cs
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\FirstAndroidApp.csproj.CoreCompileInputs.cache
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\FirstAndroidApp.dll
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\ref\FirstAndroidApp.dll
+C:\Users\X1\Desktop\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\FirstAndroidApp\obj\Debug\netstandard2.0\FirstAndroidApp.pdb
