@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{EC6335D1-D49C-4918-8867-F4A8B88044C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.Android PreferredExecutionTarget="Android.nexus_one_lollipop_5_0_-_api_21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherApp/Views/CurrentWeatherPage.xaml">
+    <Files>
+      <File FileName="WeatherApp/Views/CurrentWeatherPage.xaml.cs" Line="252" Column="2" />
+      <File FileName="WeatherApp/Models/LocalWeather.cs" />
+      <File FileName="WeatherApp/Views/CurrentWeatherPage.xaml" Line="158" Column="44" />
+      <File FileName="WeatherApp/Helper/ApiCaller.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherApp" expanded="True" selected="True">
+            <Node name="WeatherApp" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="CurrentWeatherPage.xaml" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WeatherApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.878C9BBF-11D2-485B-AA07-D44F95866069" />
+</Properties>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DBA651C7-F1E3-4248-9C27-146D09E37BA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="schoolSIMS/Startup.cs">
+    <Files>
+      <File FileName="schoolSIMS/Program.cs" Line="25" Column="1" />
+      <File FileName="schoolSIMS/Startup.cs" Line="63" Column="78" />
+      <File FileName="schoolSIMS/Model/WeatherContext.cs" />
+      <File FileName="schoolSIMS/Model/WeatherInfo.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherAPI" expanded="True">
+            <Node name="schoolSIMS" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.schoolSIMS PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
